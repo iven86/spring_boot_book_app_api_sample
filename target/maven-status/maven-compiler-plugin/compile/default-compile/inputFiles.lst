@@ -1,0 +1,6 @@
+/home/iven/Projects/books/src/main/java/com/example/books/model/Book.java
+/home/iven/Projects/books/src/main/java/com/example/books/repository/BooksRepository.java
+/home/iven/Projects/books/src/main/java/com/example/books/model/BookDetials.java
+/home/iven/Projects/books/src/main/java/com/example/books/exception/ResourceNotFoundException.java
+/home/iven/Projects/books/src/main/java/com/example/books/controller/BooksController.java
+/home/iven/Projects/books/src/main/java/com/example/books/BooksApplication.java

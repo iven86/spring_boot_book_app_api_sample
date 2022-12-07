@@ -1,0 +1,6 @@
+com/example/books/model/Book.class
+com/example/books/repository/BooksRepository.class
+com/example/books/BooksApplication.class
+com/example/books/exception/ResourceNotFoundException.class
+com/example/books/controller/BooksController.class
+com/example/books/model/BookDetials.class
